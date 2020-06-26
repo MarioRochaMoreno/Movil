@@ -34,7 +34,7 @@
 #home-info .info-content {
   float: none;
   width: 100%;
-  background: url('https://i2.wp.com/revistasuperdeportivo.com.mx/wp-content/uploads/2019/10/EGhMDdsXkAY_0LH.png?fit=680%2C646&ssl=1');
+  
 }
 
 /* Información Secundaria */
@@ -53,6 +53,10 @@
 #about-info .info-right {
   margin-top: 30px;
 }
+#testimonials {
+  height: 1000px;
+  background: url('https://www.dailyfoodoffices.com/Background.jpg') no-repeat center center/cover;
+  padding-top: 100px;
 .l-heading {
   text-align: center;
 }

@@ -15,13 +15,14 @@
 /* Showcase */
 #welcome {
   height: 100%;
-    background: url('/imagenes/braves.jpg') no-repeat center center/cover;
+    background: url('/imagenes/braves.jpg') no-repeat center;
 
 }
 
 #welcome .welcome-content {
   padding-top: 70px;
   padding-bottom: 30px;
+    text-align: center;
 }
 
 /* Home-Info */
@@ -33,6 +34,7 @@
 #home-info .info-content {
   float: none;
   width: 100%;
+  background: url('https://i2.wp.com/revistasuperdeportivo.com.mx/wp-content/uploads/2019/10/EGhMDdsXkAY_0LH.png?fit=680%2C646&ssl=1');
 }
 
 /* Información Secundaria */

@@ -11,16 +11,19 @@ body {
 @media (min-width: 480px) {
     body {
         background-image: url('../imagenes/braves.jpg');
+        background-image: url('https://i2.wp.com/revistasuperdeportivo.com.mx/wp-content/uploads/2019/10/EGhMDdsXkAY_0LH.png?fit=680%2C646&ssl=1');
     }
 }
 @media (min-width: 768px) {
     body {
         background-image: url('../imagenes/braves.jpg');
+             background-image: url('https://i2.wp.com/revistasuperdeportivo.com.mx/wp-content/uploads/2019/10/EGhMDdsXkAY_0LH.png?fit=680%2C646&ssl=1');
     }
 }
 @media (min-width: 1200px) {
     body {
         background-image: url('../imagenes/braves.jpg');
+             background-image: url('https://i2.wp.com/revistasuperdeportivo.com.mx/wp-content/uploads/2019/10/EGhMDdsXkAY_0LH.png?fit=680%2C646&ssl=1');
     }
 }
 #navbar .logo {

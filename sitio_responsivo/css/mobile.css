@@ -1,3 +1,28 @@
+body {
+    background-color: transparent;
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    backgroudn-size: contain;
+}
+
+/* Ahora podemos cambiar solo la propiedad background-image */
+@media (min-width: 480px) {
+    body {
+        background-image: url('../imagenes/braves.jpg');
+    }
+}
+@media (min-width: 768px) {
+    body {
+        background-image: url('../imagenes/braves.jpg');
+    }
+}
+@media (min-width: 1200px) {
+    body {
+        background-image: url('../imagenes/braves.jpg');
+    }
+}
 #navbar .logo {
   float: none;
   text-align: center;

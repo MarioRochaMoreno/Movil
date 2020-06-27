@@ -132,7 +132,7 @@ p {
 /* Bienvenida */
 
 #welcome {
-  background: url('../imagenes/braves.jpg') no-repeat center center/fixed;
+  background: url('../imagenes/braves.jpg') no-repeat center center/cover;
   height: 600px;
 }
 
